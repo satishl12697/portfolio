@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Satish Kumar",
+    "occupation": "Web Design and Developer @ Flyleaf Technologies",
+    "description": "Also interested in React Js looking forward to become a React js Developer",
+    "image": "SATISH.jpeg",
+    "bio": "My name is Satish Kumar L, I'm a web Design Developer. Currently I'm working at Flyleaf Technologies. I live in bangalore. 1 Year of experience in WordPress for a startup company named Flyleaf Technologies as web Design and Developer. Proficient in website Design and Development projects with wordpress. Good at Designing the Logo, Brochures, Templates with Adobe Photoshop and Illustrator. Also interested in React Js looking forward to become a React js Developer. ",
+    "contactmessage": "Get in touch with me!",
+    "email": "satishkumar12697@gmail.com",
+    "phone": "+91 7760687570",
+    "address": {
+      "street": "Kothur village, Peddapalli(post), Oorgaumpet, Kolar Gold Fields, Kolar Dist, Bangarpet (Tk)",
+      "city": "Bengaluru",
+      "state": "Karnataka ",
+      "zip": " - 563121 India"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "Github",
+        "url": "https://github.com/satishl12697/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "Bitbucket",
+        "url": "https://bitbucket.org/dashboard/repositories",
+        "className": "fa fa-bitbucket"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/feed/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here i have described my skills have a look at it!.",
+    "education": [
+      {
+        "school": "Sri Bhagawan Mahaveer Jain College (KGF) (Bangalore University)",
+        "degree": "Bachelor of Computer Applications",
+        "graduated": "june 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Flyleaf Technologies",
+        "title": "Web Design and Developer",
+        "years": "November 2019 - Present",
+        "description": "1 Year of experience in WordPress for a startup company named Flyleaf Technologies as web Design and Developer. Working on the website Design and Development projects with wordpress. Designing the Logo, Brochures, Templates with Adobe Photoshop and Illustrator for company promotion. Working on Google ads like creating campaign and researching keywords. Strong understanding in website Design and Development, hosting the website, maintaining the website, SSL activation and complete Cpanel maintenance."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Html",
+        "level": "100%"
+      },
+      {
+        "name": "css",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "React Js",
+        "level": "80%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone",
+        "category": "Amazon clone built with React Js",
+        "image": "Amazon-clone.png",
+        "url": "https://clone-bcf48.web.app/"
+      },
+      {
+        "title": "Spotify clone",
+        "category": "Spotify clone built with ReactJS",
+        "image": "Spotify clone.PNG",
+        "url": "https://spotify-clone-14c17.web.app/"
+      },
+      {
+        "title": "Netflix clone",
+        "category": "Netflix clone built with ReactJS",
+        "image": "Netflix clone.PNG",
+        "url": "https://netflix-clone-5bbeb.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
