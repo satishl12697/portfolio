@@ -101,6 +101,35 @@
       }
     ]
   },
+  "portfolio1": {
+    "projects": [
+      {
+        "title": "Flyleaf Technologies",
+        "category": "Flyleaf Technologies built with Wordpress",
+        "image": "Flyleaf.PNG",
+        "url": "https://www.flyleaftech.com/"
+      },
+      {
+        "title": "Shoolin Consultancy",
+        "category": "Shoolin Consultancy built with Wordpress",
+        "image": "shoolin.PNG",
+        "url": "https://shoolinconsultancy.in/"
+      },
+      {
+        "title": "Plustech",
+        "category": "Plustech built with Wordpress",
+        "image": "Plustech.PNG",
+        "url": "https://plustecheng.com/"
+      },
+      {
+        "title": "Buddhist Centre Kgf",
+        "category": "Buddhist Centre Kgf built with Wordpress",
+        "image": "Buddha.PNG",
+        "url": "http://www.buddhistcentrekgf.com/"
+      }
+    ]
+  },
+
   "testimonials": {
     "testimonials": [
       {
